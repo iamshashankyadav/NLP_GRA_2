@@ -1,0 +1,62 @@
+{
+ "1": {
+  "model": "lstm",
+  "config": "topk40",
+  "prompt_id": "robot_message"
+ },
+ "2": {
+  "model": "rnn",
+  "config": "greedy",
+  "prompt_id": "letter"
+ },
+ "3": {
+  "model": "rnn",
+  "config": "topk40",
+  "prompt_id": "detective"
+ },
+ "4": {
+  "model": "lstm",
+  "config": "topk40",
+  "prompt_id": "village"
+ },
+ "5": {
+  "model": "lstm",
+  "config": "greedy",
+  "prompt_id": "robot_message"
+ },
+ "6": {
+  "model": "rnn",
+  "config": "topk40",
+  "prompt_id": "letter"
+ },
+ "7": {
+  "model": "rnn",
+  "config": "greedy",
+  "prompt_id": "detective"
+ },
+ "8": {
+  "model": "lstm",
+  "config": "topk40",
+  "prompt_id": "letter"
+ },
+ "9": {
+  "model": "rnn",
+  "config": "greedy",
+  "prompt_id": "exam_paper"
+ },
+ "10": {
+  "model": "rnn",
+  "config": "topk40",
+  "prompt_id": "robot_message"
+ },
+ "11": {
+  "model": "lstm",
+  "config": "greedy",
+  "prompt_id": "letter"
+ },
+ "12": {
+  "model": "lstm",
+  "config": "topk40",
+  "prompt_id": "detective"
+ }
+}
