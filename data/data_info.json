@@ -1,0 +1,9 @@
+{
+ "train": 10000,
+ "val": 1000,
+ "test": 1000,
+ "vocab": 6414,
+ "train_tokens": 2035466,
+ "unk_rate": 0.0021,
+ "seed": 42
+}
